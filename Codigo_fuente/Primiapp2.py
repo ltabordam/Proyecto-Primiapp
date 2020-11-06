@@ -11,8 +11,8 @@ root.geometry("415x850")
 root.config(background="blue")
 t = 0
 # se crea y se abre el archivo
-primiapp =open('primiapp.txt','r')
-primiapp.close()
+#primiapp =open('primiapp.txt','r')
+#primiapp.close()
 
 
 def init_window():
