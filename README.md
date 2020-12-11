@@ -20,67 +20,72 @@ Tercero y último un temporizador que permite al usuario registrar el tiempo ded
 # Funciones Principales del proyecto ejemplificadas con imágenes:
 
 
-Login de la aplicación:
+# Login de la aplicación:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Login.PNG?raw=true) 
 
-Registro inicial del usuario:
+# Registro inicial del usuario:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Se%20un%20primi%20amigo%20(registro).PNG?raw=true) 
 
-Menú inicial:
+# Menú inicial:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/08b5c217-ea19-44fc-a5d8-b41dbc581153.jpeg?raw=true) 
 
-Calendario agenda:
+# Calendario agenda:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Agenda%20-Calendario.PNG?raw=true)
 
-Ventana para agendar tareas por fecha y por importancia:
+# Ventana para agendar tareas por fecha y por importancia:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Guardando.PNG?raw=true)
 
-Ventana para visualizar lo agendado:
+# Ventana para visualizar lo agendado:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Agendado.PNG?raw=true)
 
 
-Detección de días festivos:
+# Detección de días festivos:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/fc49dfdf-c1e4-4613-a166-32a674728468.jpeg?raw=true)
 
-Menú Calculadora de notas:
+# Menú Calculadora de notas:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Menu%20de%20notas.PNG?raw=true)
 
-Registro de notas por asignatura:
+# Registro de notas por asignatura:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Notas%20por%20materia.PNG?raw=true)
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Registro%20Notas.PNG?raw=true)
 
- Búsqueda y ponderado de notas por asignatura:
+# Búsqueda y ponderado de notas por asignatura:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Ponderaro%20y%20busqueda.PNG?raw=true)
 
-Ponderado rápido de asignaturas teniendo en cuenta la nota mínima para aprobar:
+# Ponderado rápido de asignaturas teniendo en cuenta la nota mínima para aprobar:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Ponderado%20rapido.PNG?raw=true)
 
-Ventana principal del temporizador:
+# Ventana principal del temporizador:
+
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Temporizador.PNG?raw=true)
 
-Temporizador inicializado:
+# Temporizador inicializado:
+
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Temporizador%202.PNG?raw=true)
 
-Temporizador informa que ya es tiempo para una pausa activa:
+# Temporizador informa que ya es tiempo para una pausa activa:
+
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Ya%20puede%20tomar%20un%20descanso.PNG?raw=true)
 
-Visualización del registro del temporizador por fecha única:
+# Visualización del registro del temporizador por fecha única:
+
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Temporizado%20registro%202.PNG?raw=true)
 
 
-Visualización del registro del temporizador por periodo:
-![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Registro%20temeporizdor%20IDS.PNG?raw
+# Visualización del registro del temporizador por periodo:
+
+![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Registro%20temeporizdor%20IDS.PNG?raw)
 
 
 
