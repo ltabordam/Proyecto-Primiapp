@@ -5,3 +5,6 @@ soupsieve==2.1
 tkcalendar==1.6.1
 
 # Para que el sistema de web scraping haga la correcta deteccion de los festivos en el calendario se recomienda inicializar la aplicacion y agendar una tarea luego cerrarla y volverla a abrir 
+
+# En caso de tener problemas para que el IDE detecte la libreria tkcalendar, se recomienda mover el archivo.py a una unidad de almacenamiento extraible,
+#Es decir una memoria USB, Disco Duro conectado por puerto USB entre otras unidades de almacenamiento extraibles
