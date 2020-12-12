@@ -20,6 +20,11 @@ Tercero y último un temporizador que permite al usuario registrar el tiempo ded
 # Funciones Principales del proyecto ejemplificadas con imágenes:
 
 
+
+
+
+
+
 # Login de la aplicación:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Login.PNG?raw=true) 
