@@ -49,7 +49,7 @@ Tercero y último un temporizador que permite al usuario registrar el tiempo ded
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/fc49dfdf-c1e4-4613-a166-32a674728468.jpeg?raw=true)
 
-Para que el sistema de web scraping haga la correcta deteccion de los festivos en el calendario se recomienda inicializar la aplicacion y agendar una tarea luego cerrarla y volverla a abrir 
+(Para que el sistema de web scraping haga la correcta deteccion de los festivos en el calendario se recomienda inicializar la aplicacion y agendar una tarea luego cerrarla y volverla a abrir)
 
 
 
