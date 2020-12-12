@@ -20,11 +20,6 @@ Tercero y último un temporizador que permite al usuario registrar el tiempo ded
 # Funciones Principales del proyecto ejemplificadas con imágenes:
 
 
-
-
-
-
-
 # Login de la aplicación:
 
 ![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Login.PNG?raw=true) 
@@ -43,11 +38,11 @@ Tercero y último un temporizador que permite al usuario registrar el tiempo ded
 
 # Ventana para agendar tareas por fecha y por importancia:
 
-![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Guardando.PNG?raw=true)
+![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Gardad%20o.PNG?raw=true)
 
 # Ventana para visualizar lo agendado:
 
-![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Agendado.PNG?raw=true)
+![alt tag](https://github.com/eduran777/Proyecto-Primiapp/blob/main/Primiapp_Imagenes/Ver%20guardado.PNG?raw=true)
 
 
 # Detección de días festivos:
